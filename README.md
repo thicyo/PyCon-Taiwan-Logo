@@ -1,4 +1,4 @@
-# PyCon-Taiwan-Logo
+# PyCon Taiwan 2021 Logo
 
 ![logo](svg檔/SVG_ver2.svg)
 
